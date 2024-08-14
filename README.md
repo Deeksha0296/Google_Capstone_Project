@@ -15,6 +15,7 @@ Summary :
 (5) Provided Data Dashbaords using Power Bi.
 
 TOOLS: 
+
 SQL & EXCEL : For Data Cleaning.
 
 Power BI : Applied aggregate functions to make measures for Data Numbers and Created Visuals for Data Understanding.
