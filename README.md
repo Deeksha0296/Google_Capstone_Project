@@ -12,7 +12,7 @@ Summary :
 
 (4) Provided recommendations to increase membership by targeting casual riders through summer promotions and social media campaigns, leading to actionable strategies for enhancing the service.
 
-(5) Provided Data Dashbaords using Power Bi.
+(5) Provided Data Dashbaords using Power Bi. 
 
 TOOLS: 
 
