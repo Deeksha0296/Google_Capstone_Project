@@ -20,4 +20,4 @@ SQL & EXCEL : For Data Cleaning.
 
 Power BI : Applied aggregate functions to make measures for Data Numbers and Created Visuals for Data Understanding.
 
-Presentation Link : https://youtu.be/pSlanipFhnQ?si=la9w8NcNt3RAn3ZZ
+Presentation : https://youtu.be/pSlanipFhnQ?si=la9w8NcNt3RAn3ZZ
