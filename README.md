@@ -3,6 +3,7 @@
 Objective: To give meaningful insights of patterns and trends for a bike-sharing company called Cyclistic’s data from June 2023 to May 2024, that provide significant metrics for informative patterns and new marketing strategies.
 
 Summary :
+
 (1) Analyzed 5.69 million rides, revealing that annual members account for 64.8% of rides while casual riders contribute 35.2%. 
 
 (2) Discovered seasonal trends with 35% of rides occurring in summer and higher weekend usage among casual riders (30%). 
